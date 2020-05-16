@@ -3,6 +3,11 @@ import CommentType from './commentType';
 import { getComments, saveComment } from './commentLoader';
 
 /**
+ * in this file, I'm export my queries and mutations
+ */
+
+
+/**
  * getComments responsible to find all comments in database
  */
 export const queries = {
@@ -12,6 +17,9 @@ export const queries = {
     }
 };
 
+/**
+ * Mutation responsible to save data
+ */
 export const mutations = {
     saveComment: {
         type: CommentType,

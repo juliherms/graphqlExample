@@ -1,6 +1,11 @@
 import Comment from './commentModel';
 
 /**
+ * this class defines all method access to graphQL
+ */
+
+
+/**
  * Method responsible to save comment
  * @param {*} _  - any
  * @param {*} param1 - data input
