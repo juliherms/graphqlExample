@@ -4,7 +4,7 @@ API example with mongo and apollo server
 
 ### Requirements
 
-- Mongo Databae ([Mongo](https://www.mongodb.com/cloud) or [Docker Mongo](https://hub.docker.com/_/mongo)
+- Mongo Databae ([Mongo](https://www.mongodb.com/cloud) or [Docker Mongo](https://hub.docker.com/_/mongo )
 - [Node](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/en/docs/install#debian-stable) or Npm (Just install Node)
 
@@ -26,5 +26,14 @@ $ yarn
 ```bash
 $ yarn dev
 ```
+
+### GraphQL benefits
+
+- Overfeching
+
+
+<img src="img/img2.png">
+<img src="img/img3.png">
+<img src="img/img4.png">
 
 
