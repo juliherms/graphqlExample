@@ -10,6 +10,7 @@
     "apollo-server": "^2.13.1",
     "dotenv": "^8.2.0",
     "graphql": "^15.0.0",
+    "graphql-iso-date": "^3.6.1",
     "mongoose": "^5.9.14"
   },
   "devDependencies": {

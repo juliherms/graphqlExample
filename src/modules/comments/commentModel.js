@@ -4,7 +4,7 @@ import { Schema, model } from 'mongoose';
  * this class represents document mongo in the application.
  * comment
  */
-const Schema = new Schema(
+const schema = new Schema(
     {
         name: {
             type: String,
